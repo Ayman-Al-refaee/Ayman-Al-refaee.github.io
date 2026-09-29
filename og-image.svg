@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F8E7C9"/>
+  <rect x="48" y="48" width="1104" height="534" rx="34" fill="#064E3B"/>
+  <circle cx="1000" cy="315" r="175" fill="#F8E7C9"/>
+  <circle cx="1000" cy="315" r="130" fill="none" stroke="#064E3B" stroke-width="2" opacity=".35"/>
+  <text x="95" y="145" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="5" fill="#F8E7C9">COMPUTER SCIENCE · BACKEND DEVELOPMENT</text>
+  <text x="95" y="270" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#F8E7C9">Ayman Alrefaee</text>
+  <text x="95" y="335" font-family="Arial,sans-serif" font-size="30" fill="#F8E7C9" opacity=".82">Junior Backend Developer</text>
+  <text x="95" y="405" font-family="Arial,sans-serif" font-size="21" fill="#F8E7C9" opacity=".68">Laravel · PHP · C++ · .NET · Python</text>
+  <text x="1000" y="337" text-anchor="middle" font-family="Georgia,serif" font-size="160" font-weight="700" fill="#064E3B">A</text>
+</svg>
